@@ -13,6 +13,7 @@ Die Analyse umfasst die Datenaufbereitung, explorative Datenanalyse, Modelltrain
 Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollziehbarkeit zu gewährleisten:
 
 📂 data
+
       ├── fruit_data.xlsx         #Rohdatensatz
       ├── fruit_data_cleaned.xlsx     #Bereinigte und aufbereitete Daten
 📂 models
