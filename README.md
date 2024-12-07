@@ -33,9 +33,13 @@ Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollzi
 # Datenbeschreibung
 Die Daten enthalten die folgenden Variablen:
 
-fruit_type: Zielvariable (Fruchttyp: Apple, Banana, Grape).
-weight: Gewicht der Frucht (numerisch).
-size: Größe der Frucht (kategorisch: Tiny, Small, Medium, Large).
+**fruit_type**: Zielvariable (Fruchttyp: Apple, Banana, Grape).
+
+**weight**: Gewicht der Frucht (numerisch).
+
+**size**: Größe der Frucht (kategorisch: Tiny, Small, Medium, Large).
+
+**color**: Farbe der Frucht (kategorisch: Yellow, Red, Purple, Pink, Green, Creamy White, Black).
 
 Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu finden Sie im Notebook data_preparation.ipynb.
 
