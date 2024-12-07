@@ -6,4 +6,5 @@ Dieses Projekt zielt darauf ab, ein Modell zu entwickeln, das verschiedene Fruch
 
 1. Logistische Regression
 2. Entscheidungsbaum
+
 Die Analyse umfasst die Datenaufbereitung, explorative Datenanalyse, Modelltraining und Hyperparameter-Tuning. Die Modelle werden anhand verschiedener Metriken wie Genauigkeit, F1-Score und ROC-AUC verglichen.
