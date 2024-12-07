@@ -12,18 +12,7 @@ Die Analyse umfasst die Datenaufbereitung, explorative Datenanalyse, Modelltrain
 # Projektstruktur
 Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollziehbarkeit zu gewährleisten:
 
-📂 **data**
-   ├── fruit_data.xlsx            # Rohdatensatz
-   ├── fruit_data_cleaned.xlsx        # Bereinigte und aufbereitete Daten
-   
-📂 **models**
-   ├── model_training.ipynb    # Notebook mit Modelltraining und Evaluierung
-   
-📂 **notebooks**
-   ├── data_preparation.ipynb     # Datenaufbereitung und Bereinigung
-   ├── exploratory_analysis.ipynb    # Explorative Datenanalyse
-   
-📄 README.md                    # Diese Dokumentation
+📂 Data ├── raw_data.csv # Rohdatensatz ├── cleaned_data.csv # Bereinigte und aufbereitete Daten 📂 Models ├── model_training.ipynb # Notebook mit Modelltraining und Evaluierung ├── decision_tree.pkl # Gespeichertes Entscheidungsbaum-Modell ├── logistic_regression.pkl # Gespeichertes logistisches Regressionsmodell 📂 Notebooks ├── data_preparation.ipynb # Datenaufbereitung und Bereinigung ├── exploratory_analysis.ipynb # Explorative Datenanalyse 📄 README.md # Diese Dokumentation
 
 # Datenbeschreibung
 Die Daten enthalten die folgenden Variablen:
