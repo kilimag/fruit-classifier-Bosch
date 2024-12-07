@@ -17,11 +17,13 @@ Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollzi
       ├── fruit_data.xlsx         #Rohdatensatz
       ├── fruit_data_cleaned.xlsx     #Bereinigte und aufbereitete Daten
 📂 models
-   ├── model_training.ipynb # Notebook mit Modelltraining und Evaluierung
+      
+      ├── model_training.ipynb # Notebook mit Modelltraining und Evaluierung
 
 📂 notebooks
-   ├── data_preparation.ipynb  # Datenaufbereitung und Bereinigung
-   ├── exploratory_analysis.ipynb # Explorative Datenanalyse
+
+      ├── data_preparation.ipynb  # Datenaufbereitung und Bereinigung
+      ├── exploratory_analysis.ipynb # Explorative Datenanalyse
    
 📄 README.md                 # Diese Dokumentation  
 
