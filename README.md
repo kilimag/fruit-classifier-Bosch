@@ -58,7 +58,7 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
             - ROC-AUC
 5. Ergebnisse
 
-- Die logistische Regression zeigte eine Genauigkeit von 93% und schnitt insgesamt besser ab.
+      - Die logistische Regression zeigte eine Genauigkeit von 93% und schnitt insgesamt besser ab.
 
-- Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit geringfügig niedrigeren AUC-Werten.
+      - Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit geringfügig niedrigeren AUC-Werten.
 
