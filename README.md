@@ -65,8 +65,8 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
 # Anleitung zur Reproduktion
 1. Repository klonen
 
-            git clone https://github.com/dein-repository-link.git
-            cd dein-repository
+            git clone https://github.com/kilimag/fruit-classifier-Bosch
+            cd fruit-classifier-Bosch
 2. Python-Umgebung einrichten
 Installieren Sie die benötigten Abhängigkeiten:
 
