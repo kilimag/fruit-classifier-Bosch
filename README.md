@@ -40,3 +40,24 @@ Die Daten enthalten die folgenden Variablen:
 
 Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu finden Sie im Notebook data_preparation.ipynb.
 
+# Durchgeführte Schritte
+1. Datenvorbereitung
+      -Entfernen von fehlenden oder fehlerhaften Werten.
+      -Transformation kategorischer Variablen in numerische Werte.
+      -Optional: Skalierung numerischer Variablen.
+2. Explorative Datenanalyse
+      -Untersuchung der Verteilung der Daten.
+      -Visualisierungen wie Boxplots, Korrelationsmatrizen und Histogramme.
+      -Beispiel: Gewichtsunterschiede zwischen Fruchttypen.
+3. Modelltraining
+      -Training eines Entscheidungsbaums und einer logistischen Regression.
+      -Anwendung von Hyperparameter-Tuning (Grid Search) zur Optimierung der Modelle.
+
+Vergleich der Modellleistungen anhand:
+Genauigkeit
+F1-Score
+ROC-AUC
+5. Ergebnisse
+Die logistische Regression zeigte eine Genauigkeit von 93% und schnitt insgesamt besser ab.
+Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit geringfügig niedrigeren AUC-Werten.
+
