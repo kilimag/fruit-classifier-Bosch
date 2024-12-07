@@ -14,8 +14,9 @@ Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollzi
 
 📂 **data**
 
-   ├── fruit_data.xlsx         # Rohdatensatz
-   ├── fruit_data_cleaned.xlsx     # Bereinigte und aufbereitete Daten
+      ├── fruit_data.xlsx         # Rohdatensatz
+      
+      ├── fruit_data_cleaned.xlsx     # Bereinigte und aufbereitete Daten
    
 📂 **models**
 
