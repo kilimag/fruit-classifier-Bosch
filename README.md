@@ -42,9 +42,9 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
 
 # Durchgeführte Schritte
 1. Datenvorbereitung
-      -Entfernen von fehlenden oder fehlerhaften Werten.
-      -Transformation kategorischer Variablen in numerische Werte.
-      -Optional: Skalierung numerischer Variablen.
+      - Entfernen von fehlenden oder fehlerhaften Werten.
+      - Transformation kategorischer Variablen in numerische Werte.
+      - Optional: Skalierung numerischer Variablen.
 2. Explorative Datenanalyse
       -Untersuchung der Verteilung der Daten.
       -Visualisierungen wie Boxplots, Korrelationsmatrizen und Histogramme.
