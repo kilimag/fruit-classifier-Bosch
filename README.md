@@ -60,7 +60,7 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
 
       - Die logistische Regression zeigte eine Genauigkeit von 93% und schnitt insgesamt besser ab.
 
-      - Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit geringfügig niedrigeren AUC-Werten.
+      - Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit einer geringeren AUC.
 
 # Anleitung zur Reproduktion
 1. Repository klonen
