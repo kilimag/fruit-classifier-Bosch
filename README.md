@@ -11,12 +11,12 @@ Die Analyse umfasst die Datenaufbereitung, explorative Datenanalyse, Modelltrain
 
 # Projektstruktur
 Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollziehbarkeit zu gewährleisten:
-📂 data
+📂 *data*
    ├── fruit_data.xlsx         # Rohdatensatz
    ├── fruit_data_cleaned.xlsx     # Bereinigte und aufbereitete Daten
-📂 models
+📂 *models*
    ├── model_training.ipynb # Notebook mit Modelltraining und Evaluierung
-📂 notebooks
+📂 *notebooks*
    ├── data_preparation.ipynb  # Datenaufbereitung und Bereinigung
    ├── exploratory_analysis.ipynb # Explorative Datenanalyse
 📄 README.md                 # Diese Dokumentation
@@ -29,3 +29,4 @@ weight: Gewicht der Frucht (numerisch).
 size: Größe der Frucht (kategorisch: Tiny, Small, Medium, Large).
 
 Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu finden Sie im Notebook data_preparation.ipynb.
+
