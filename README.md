@@ -62,3 +62,21 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
 
       - Der Entscheidungsbaum erreichte eine ähnliche Genauigkeit, jedoch mit geringfügig niedrigeren AUC-Werten.
 
+# Anleitung zur Reproduktion
+1. Repository klonen
+
+            git clone https://github.com/dein-repository-link.git
+            cd dein-repository
+2. Python-Umgebung einrichten
+Installieren Sie die benötigten Abhängigkeiten:
+
+            pip install -r requirements.txt
+3. Notebooks ausführen
+
+- Beginnen Sie mit data_preparation.ipynb, um die Daten aufzubereiten.
+- Führen Sie exploratory_analysis.ipynb aus, um die explorative Analyse zu sehen.
+- Führen Sie model_training.ipynb aus, um die Modelle zu trainieren und zu evaluieren.
+4. Ergebnisse überprüfen
+
+- Modelle und Ergebnisse sind im Ordner Models gespeichert.
+- Visualisierungen und Metriken sind in den Notebooks dokumentiert.
