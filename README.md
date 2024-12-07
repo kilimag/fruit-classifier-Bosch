@@ -11,10 +11,10 @@ Die Analyse umfasst die Datenaufbereitung, explorative Datenanalyse, Modelltrain
 
 # Projektstruktur
 Das Projekt ist in mehrere Ordner unterteilt, um die Organisation und Nachvollziehbarkeit zu gewährleisten:
-📂 *data*
+📂 **data**
    ├── fruit_data.xlsx         # Rohdatensatz
    ├── fruit_data_cleaned.xlsx     # Bereinigte und aufbereitete Daten
-📂 *models*
+📂 **models**
    ├── model_training.ipynb # Notebook mit Modelltraining und Evaluierung
 📂 *notebooks*
    ├── data_preparation.ipynb  # Datenaufbereitung und Bereinigung
