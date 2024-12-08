@@ -44,7 +44,7 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
 1. Datenvorbereitung
       - Entfernen von fehlenden oder fehlerhaften Werten.
       - Transformation kategorischer Variablen in numerische Werte.
-      - Optional: Skalierung numerischer Variablen.
+      - Skalierung numerischer Variablen.
 2. Explorative Datenanalyse
       - Untersuchung der Verteilung der Daten.
       - Visualisierungen wie Boxplots, Heatmaps und Histogramme.
