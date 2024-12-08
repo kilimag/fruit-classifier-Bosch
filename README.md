@@ -36,7 +36,7 @@ Die Daten enthalten die folgenden Variablen:
 
 **size**: Größe der Frucht (kategorisch: Tiny, Small, Medium, Large).
 
-**color**: Farbe der Frucht (kategorisch: Yellow, Red, Purple, Pink, Green, Creamy White, Black).
+**color**: Farbe der Frucht (kategorisch: Yellow, Pale Yellow, Red, Purple, Pink, Green, Creamy White, Black).
 
 Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu finden Sie im Notebook data_preparation.ipynb.
 
