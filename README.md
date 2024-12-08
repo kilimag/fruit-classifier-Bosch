@@ -47,7 +47,7 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
       - Optional: Skalierung numerischer Variablen.
 2. Explorative Datenanalyse
       - Untersuchung der Verteilung der Daten.
-      - Visualisierungen wie Boxplots, Korrelationsmatrizen und Histogramme.
+      - Visualisierungen wie Boxplots, Heatmaps und Histogramme.
       - Beispiel: Gewichtsunterschiede zwischen Fruchttypen.
 3. Modelltraining
       - Training eines Entscheidungsbaums und einer logistischen Regression.
