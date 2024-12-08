@@ -51,7 +51,7 @@ Die Daten wurden bereinigt und nach fehlenden Werten geprüft. Details dazu find
       - Beispiel: Gewichtsunterschiede zwischen Fruchttypen.
 3. Modelltraining
       - Training eines Entscheidungsbaums und einer logistischen Regression.
-      - Anwendung von Hyperparameter-Tuning (Grid Search) zur Optimierung der Modelle.
+      - Anwendung von Hyperparameter-Tuning (Grid Search) zur Optimierung des Entscheidungsbaums.
       - Vergleich der Modellleistungen anhand:
             - Genauigkeit
             - F1-Score
